@@ -1,6 +1,6 @@
 # hermes-trade — Algorithmic Trading Framework. Low-latency algorithmic trading framework
 
-Algorithmic Trading Framework. Low-latency algorithmic trading framework. hermes-trade gives you a focused, inspectable implementation of that idea.
+Algorithmic Trading Framework. Low-latency algorithmic trading framework.
 
 ## Why hermes-trade
 
